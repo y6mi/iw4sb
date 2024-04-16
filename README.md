@@ -7,6 +7,7 @@
 <h2>Setup</h2>
 
 <h3>Credits</h3>
+ 
 - Yami (UI, Weapons, Mapping, Modeling)
  
 - Neo (Mapping, Weapons)
