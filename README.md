@@ -59,12 +59,17 @@
 
 <h2>TO-DO</h2>
 - Fix recoil for ALL weapons (added recoil)
+
 - Some weapons sound names overlap, need to rename and re-reference
+  
 - Implement ranking system for custom skins as well. (unlocktable?)
+  
 - Fix Vision on Custom Maps
+  
 - Finish UI (Killcam + In-Game HUD are main things left)
+  
 - OMA Noob tube fix
--
+  
 -
 
 
