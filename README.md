@@ -8,5 +8,7 @@
 
 <h3>Credits</h3>
 - Yami (UI, Weapons, Mapping, Modeling)
+ 
 - Neo (Mapping, Weapons)
+  
 - Mack (GSC Functions, Code Cleanup)
